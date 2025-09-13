@@ -1,0 +1,2 @@
+As a Bioinformatics and Computational Biology graduate student, I am interested in learning data science tools and techniques during this DATA602 course so that I can process and analyze large biological datasets.
+I also look forward to learn and apply statistical and machine learning techniques to different kinds of datasets, so that I can skillfully contribute to computational biology research and development projects.
