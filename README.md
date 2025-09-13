@@ -1,0 +1,1 @@
+This project is a forked repository of DATA602. It demonstrates the use of git commands and automating GitHub Pages setup.
